@@ -1,0 +1,16 @@
+{
+  "name": "weather-check",
+  "version": "1.0.0",
+  "description": "Making a Weather check website",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon src/app,js"
+  },
+  "author": "Vivek Mittal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.16"
+  }
+}
